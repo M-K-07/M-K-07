@@ -53,14 +53,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/murali-krishna-sahu/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="https://github.com/M-K-07" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="30" height="30"/>
   </a>
   <a href="https://x.com/MuraliKris91250" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="X" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="X" width="30" height="30"/>
   </a>
 </p>
-
-<br/>
